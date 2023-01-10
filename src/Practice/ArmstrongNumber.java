@@ -1,6 +1,6 @@
 package Practice;
 
-//System.out.println("Armstrong number program");
+//System.out.println("Armstrong number");
 public class ArmstrongNumber {
 	public static void main(String[] args) {
 		int num=153;
